@@ -1,5 +1,5 @@
-# Azure Data Studio Notebook Template
+# Azure Data Studio Notebooks
 
-Links for Notebooks this Solution
+Notebooks in this Solution
 
 [SQL Kernel](sql_notebook.ipynb) - Sample Notebook
