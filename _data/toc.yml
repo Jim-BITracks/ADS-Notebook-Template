@@ -1,5 +1,5 @@
 # this file controls the overall navigation displayed in the "Notebook Side Bar"
-# the following 'title:' value will appear directly below the the Top level Side Bar navigation
+# the following title: (Welcome) will appear directly below the the Top level Side Bar navigation
 - title: Welcome
   url: readme
   not_numbered: true
